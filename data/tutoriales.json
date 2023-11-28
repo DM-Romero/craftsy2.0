@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "nombre": "reparacion",
+        "descripcion": "loren",
+        "imagen": "aside-01.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "configuracion",
+        "descripcion": "loren",
+        "imagen": "aside-02.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "instalacion",
+        "descripcion": "loren",
+        "imagen": "aside-03.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "recuperacion",
+        "descripcion": "loren",
+        "imagen": "aside-04.jpg"
+    }
+   
+]
